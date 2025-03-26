@@ -1,2 +1,3 @@
-# Az-500-Study Guide
-Study Prep for Microsoft Certified Azure Security Engineer Associate
+<h1>Microsoft AZ-104 Study Guide</h1>
+<h2>Description</h2>
+This document serves as a comprehensive collection of notes and screenshots compiled during my study of the AZ-104 Microsoft Azure Administrator certification guide. Its primary purpose is to reinforce my understanding and retention of key concepts, while also serving as a practical resource for others preparing for the AZ-104 exam. Whether you're reviewing core Azure services, revisiting configuration steps, or looking for real-world visuals, this guide is designed to provide clear, organized, and helpful insights throughout your certification journey.
