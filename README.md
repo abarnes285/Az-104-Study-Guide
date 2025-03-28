@@ -17,6 +17,6 @@ Azure powerrshell lets you connect to your azure subscription and manage resourc
 
 For ex. Azure powershell provides the New-AzVM command that creates a VM for you inside your azure subscription. TO use it. You launch powershell and install the Azure Powershell module. Then, sign in to your Azure account using the command Connect-AzAccount and issue a command like:  
 New-AzVM  ‘  
-  -ResourceGroupName “MyResourcesGroup”   ‘ 
-  -Name “TestVM”   ‘ 
-  -Image “UbuntuLTS”.  ‘  
+  -ResourceGroupName “MyResourcesGroup” \n
+  -Name “TestVM” \n
+  -Image “UbuntuLTS” \n
