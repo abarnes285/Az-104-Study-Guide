@@ -39,7 +39,7 @@ Azure CLI is a command line program that connects to Azure and executes admin co
 <h3>Azure Powershell </h3>
 Azure cloud shell is an interactive, authenticated, browser-accessible shell for managing Azure resources using scripting tools like Azure CLI or PowerShell. The Cloud shell also has many other dev tools available, such as text editors, source-control tools, databases, and more.  <br/>
 
--Can access Azure cloud shell from within the portal or by going to this [link] (https://portal.azure.com/#cloudshell/)
+-Can access Azure cloud shell from within the portal or by going to this <a href="https://portal.azure.com/#cloudshell/">link</a>
 
 <h3>Azure Powershell </h3>
 The Azure mobile app allows you to access, manage, and monitor all your Azure accounts and resources from your IOS or Android phone or tablet.  
