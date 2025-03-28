@@ -17,17 +17,17 @@ Azure PowerShell lets you connect to your Azure subscription and manage resource
 
 For ex. Azure Powershell provides the New-AzVM command that creates a VM inside your Azure subscription. To use it. You launch Powershell and install the Azure Powershell module. Then, sign in to your Azure account using the command Connect-AzAccount and issue a command like:  
 
-New-AzVM   
- >-ResourceGroupName “MyResourcesGroup” <br/>
- >-Name “TestVM” <br/>
- >-Image “UbuntuLTS”  <br/>
+>New-AzVM   
+ >>-ResourceGroupName “MyResourcesGroup” <br/>
+ >>-Name “TestVM” <br/>
+ >>-Image “UbuntuLTS”  <br/>
 <h3>Azure CLI </h3>
 Azure CLI is a command line program that connects to Azure and executes admin commands on Azure resources. Azure CLI can run on windows, Linux, or macOS.  <br/>
 
 -For ex. To create a VM, you would open a command prompt window and install the Azure CLI. Then, sign in to Azure using the command az login and issue a command such as:  <br/>
 
-Az vm create <br/>
->--reource-group MyResourceGroup <br/>
->--name TestVmbr <br/>
->--image Ubuntu2204 <br/>
+>Az vm create <br/>
+>>--reource-group MyResourceGroup <br/>
+>>--name TestVmbr <br/>
+>>--image Ubuntu2204 <br/>
 >--generate-ssh-keys <br/>
