@@ -39,7 +39,7 @@ Azure CLI is a command line program that connects to Azure and executes admin co
 <h3>Azure Powershell </h3>
 Azure cloud shell is an interactive, authenticated, browser-accessible shell for managing Azure resources using scripting tools like Azure CLI or PowerShell. The Cloud shell also has many other dev tools available, such as text editors, source-control tools, databases, and more.  <br/>
 
--Can access Azure cloud shell from within the portal or by going to this <a href="https://portal.azure.com/#cloudshell/">link</a>
+-Can access Azure cloud shell from within the portal or by going to this <a href="https://portal.azure.com/#cloudshell/">link</a>.
 
 <h3>Azure Powershell </h3>
 The Azure mobile app allows you to access, manage, and monitor all your Azure accounts and resources from your IOS or Android phone or tablet.  
@@ -53,3 +53,78 @@ Once installed you can perform many common Azure tasks:  <br/>
 -Connect to your VMs.  <br/>
 -Manage permissions with RBAC. <br/>
 -Use the Azure cloud shell to run saved scripts or perform admin tasks. <br/>
+
+<h3>Azure Powershell </h3>
+You can change your default view to the customizable dashboard in the portal settings.  
+
+<h3>Portal menu</h3>
+Azure has many more services than whats shown in the menu. The services listed usually are the ones favorited. You can customize your favorites with the specific resource types that you tend to create or administer most often.  
+
+<h3>Copilot in Azure</h3>
+If your org has made Copilot in Azure available, you can select the button to ask questions, quickly navigate to services and resources, or get help with tasks. For ex, Copilot can help you design, operate, optimize, and troubleshoot your Azure apps and infrastructure. Copilot for Azure can also help you gain new insights about which Azure services can help with your objectives.  
+
+<h3>Azure portal global controls </h3>
+The Azure portal displays several icons in the status bar at the top right side of the screen. These icons are global controls that are always available, no matter what service you’re working with. Each icon provides quick access to useful functionality, such as configuring settings or viewing notifications about portal activity.  
+
+<h3>Cloud shell </h3>
+Select the cloud shell icon (>_) to create a new Azure Cloud shell session. Recall that Azure Cloud Shell is an interactive shell for managing Azure resources. This browser-based terminal lets you control and administer your Azure Resources through a command-line interface built right into the portal.  
+
+<h3>Notifications </h3>
+Select the bell icon to display the notifications pane. This pane gives you information about the most recent actions that have been carried out, along with their status.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
