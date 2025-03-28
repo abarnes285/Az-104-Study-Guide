@@ -4,14 +4,14 @@ This document serves as a comprehensive collection of notes and screenshots comp
 <h3>Azure manangement options </h3>
 You can configure and manage Azure using a broad range of tools and platforms. There are tools available for command line, language-specific software development kits (SDKs), developer tools, migration tools, and many others.   
 Tools used for common day-to-day management and interaction include:  
--Azure portal for interacting with Azure via GUI  
--Azure PowerShell and Azure CLI for command line and automation-based interactions with Azure 
--Azure Cloud Shell for web-based command line interface 
--azure mobile app for monitoring and managing your resources from your mobile device 
+-Azure portal for interacting with Azure via GUI  <br/>
+-Azure PowerShell and Azure CLI for command line and automation-based interactions with Azure <br/>
+-Azure Cloud Shell for web-based command line interface <br/>
+-azure mobile app for monitoring and managing your resources from your mobile device <br/>
 <h3>Azure Portal </h3>
  The Azure portal is a public website you can access with any web browser. Once you are signed in with your Azure account, you can create, manage, and monitor services and resources. In the portal, you can use search to find different types of services and get links for help on a topic. The Azure portal also guides you through complex admin tasks using wizards and tooltips.  
--Azure portal is often the best interface for carrying out single tasks, or when you want to look at config options in detail  
--The portal doesn’t let you automate repetitive tasks. For example, to set up multiple VMs you’d need to create them one at a time. This process might make the portal approach less ideal for repetitive tasks. For these types, we should use Azure PowerShell and CLI.  
+-Azure portal is often the best interface for carrying out single tasks, or when you want to look at config options in detail  <br/>
+-The portal doesn’t let you automate repetitive tasks. For example, to set up multiple VMs you’d need to create them one at a time. This process might make the portal approach less ideal for repetitive tasks. For these types, we should use Azure PowerShell and CLI.  <br/>
 <h3>Azure Powershell </h3>
 Azure PowerShell lets you connect to your Azure subscription and manage resources.  
 
