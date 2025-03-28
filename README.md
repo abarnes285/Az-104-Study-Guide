@@ -1,6 +1,8 @@
 <h1>Microsoft AZ-104 Study Guide</h1>
+
 <h2>Description</h2>
 This document serves as a comprehensive collection of notes and screenshots compiled during my study of the AZ-104 Microsoft Azure Administrator certification guide. Its primary purpose is to reinforce my understanding and retention of key concepts, while also serving as a practical resource for others preparing for the AZ-104 exam. Whether you're reviewing core Azure services, revisiting configuration steps, or looking for real-world visuals, this guide is designed to provide clear, organized, and helpful insights throughout your certification journey.
+
 <h3>Azure manangement options </h3>
 You can configure and manage Azure using a broad range of tools and platforms. There are tools available for command line, language-specific software development kits (SDKs), developer tools, migration tools, and many others.   
 Tools used for common day-to-day management and interaction include:  <br/>
@@ -8,10 +10,12 @@ Tools used for common day-to-day management and interaction include:  <br/>
 -Azure PowerShell and Azure CLI for command line and automation-based interactions with Azure <br/>
 -Azure Cloud Shell for web-based command line interface <br/>
 -Azure mobile app for monitoring and managing your resources from your mobile device <br/>
+
 <h3>Azure Portal </h3>
  The Azure portal is a public website you can access with any web browser. Once you are signed in with your Azure account, you can create, manage, and monitor services and resources. In the portal, you can use search to find different types of services and get links for help on a topic. The Azure portal also guides you through complex admin tasks using wizards and tooltips.  <br/>
 -Azure portal is often the best interface for carrying out single tasks, or when you want to look at config options in detail  <br/>
 -The portal doesn’t let you automate repetitive tasks. For example, to set up multiple VMs you’d need to create them one at a time. This process might make the portal approach less ideal for repetitive tasks. For these types, we should use Azure PowerShell and CLI.  
+
 <h3>Azure Powershell </h3>
 Azure PowerShell lets you connect to your Azure subscription and manage resources.  
 
@@ -30,4 +34,22 @@ Azure CLI is a command line program that connects to Azure and executes admin co
 >>--reource-group MyResourceGroup <br/>
 >>--name TestVmbr <br/>
 >>--image Ubuntu2204 <br/>
->--generate-ssh-keys <br/>
+>>--generate-ssh-keys <br/>
+
+<h3>Azure Powershell </h3>
+Azure cloud shell is an interactive, authenticated, browser-accessible shell for managing Azure resources using scripting tools like Azure CLI or PowerShell. The Cloud shell also has many other dev tools available, such as text editors, source-control tools, databases, and more.  <br/>
+
+-Can access Azure cloud shell from within the portal or by going to this [link] (https://portal.azure.com/#cloudshell/)
+
+<h3>Azure Powershell </h3>
+The Azure mobile app allows you to access, manage, and monitor all your Azure accounts and resources from your IOS or Android phone or tablet.  
+ 
+
+Once installed you can perform many common Azure tasks:  <br/>
+-Check the current status and critical metrics of your services.  <br/>
+-Stay informed with notifications and alerts about health issues.  <br/>
+-Review the latest Azure alerts. <br/>
+-Start, stop, and restart VMs or web apps. <br/>
+-Connect to your VMs.  <br/>
+-Manage permissions with RBAC. <br/>
+-Use the Azure cloud shell to run saved scripts or perform admin tasks. <br/>
